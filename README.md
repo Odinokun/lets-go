@@ -27,7 +27,6 @@ gulp-sass                                               | рендеринг scs
 gulp-concat-css                                         | для конкатенации файлов стилей
 gulp-autoprefixer                                       | проставляем префиксы
 gulp-sourcemaps                                         | создание sourcemaps
-gulp-css-url-adjuster                                   | для замены относительных путей к файлам
 gulp-csso                                               | для минификации файлов стилей
 gulp-svg-sprite                                         | склеивает svg в спрайты
 gulp-svgmin                                             | минифицирует svg
