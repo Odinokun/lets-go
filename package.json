@@ -1,6 +1,6 @@
 {
   "name": "tpl-start",
-  "version": "1.0.0",
+  "version": "2.0",
   "description": "odinokun start template",
   "main": "gulpfile.js",
   "devDependencies": {
@@ -34,6 +34,7 @@
   "dependencies": {
     "@fancyapps/fancybox": "^3.1.20",
     "animate.css": "^3.5.2",
+    "gulp": "github:gulpjs/gulp#6d71a65",
     "jquery": "2.2.4",
     "normalize.css": "^4.1.1",
     "slick-carousel": "^1.6.0",
